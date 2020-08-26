@@ -1,6 +1,6 @@
 # react-app-token-minter
 
-React App to mint tokens
+React App to mint erc-20 tokens
 
 ## Develop
 
